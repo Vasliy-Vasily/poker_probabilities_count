@@ -117,7 +117,3 @@ In 10000 simulations you have won in 26.96 % of games, you got draw in 3.03 % of
 ```
 
 ---
-
-## License / Лицензия
-
-MIT
