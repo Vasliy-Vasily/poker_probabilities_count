@@ -20,6 +20,16 @@ You enter your hole cards, the board cards, and the number of players — the pr
 
 ## Project structure
 
+```
+poker_probabilities_count/
+│
+├── main.py              # entry point
+├── getting_data.py        # input & validation
+├── evaluation.py        # 7-card hand evaluation
+├── generation.py             # Monte Carlo simulations
+├── README.md
+```
+
 ## Example 
 Welcome to the Poker counter! Looks like someone wants to win some money
 Tell me, how many players are in the game including you?
