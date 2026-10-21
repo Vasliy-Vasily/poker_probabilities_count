@@ -1,8 +1,8 @@
+[Русская версия](#русский)
+
 # Poker Counter
 
 A small tool for estimating your win probability in Texas Hold'em using the Monte Carlo method.
-
-[Русская версия](#русский)
 
 ---
 
