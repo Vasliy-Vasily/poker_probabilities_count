@@ -67,7 +67,8 @@ def generate_opponent_hands(number_of_players, hand, table_cards, simulations=10
         else:
             loses += 1
 
-    victory_rate = round(victories / simulations * 100, 3)
-    draws_rate = round(draws / simulations * 100, 3)
-    loses_rate = round(loses / simulations * 100, 3)
-    return victory_rate, draws_rate, loses_rate
+    victory_rate = round(victories / simulations, 5)
+    draw_rate = round(draws / simulations, 5)
+    lose_rate = round(loses / simulations, 5)
+    return victory_rate, draw_rate, lose_rate
+
