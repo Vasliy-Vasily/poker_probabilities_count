@@ -60,7 +60,7 @@ Now the program will now generate 10,000 random distributions of cards among you
 In 10000 simulations you have won in 26.96 % of games, you got draw in 3.03 % of games and lost in 70.01 % of games
 ```
 
-# Author
+### Author
 
 Vasily Orlov
 
@@ -69,6 +69,10 @@ https://github.com/Vasliy-Vasily
 ---
 
 ## Русский
+
+# Покерный калькулятор
+
+Небольшой инструмент для оценки вероятности выигрыша в техасском холдеме с использованием метода Монте-Карло.
 
 ### Что делает
 
@@ -121,7 +125,7 @@ Now the program will now generate 10,000 random distributions of cards among you
 
 In 10000 simulations you have won in 26.96 % of games, you got draw in 3.03 % of games and lost in 70.01 % of games
 ```
-# Автор
+### Автор
 
 Василий Орлов
 
