@@ -2,7 +2,7 @@ import random
 from evaluation import evaluate_7
 
 #This functions generates a lot of random decks of cards for further analysis
-def generate_opponent_hands(number_of_players, hand, table_cards, simulations=10000):
+def generate_opponent_hands(number_of_players, hand, table_cards, simulations=100000):
     victories = draws = loses = 0
 
     def to_int_pair(value_str, suit_str):
