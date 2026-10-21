@@ -16,7 +16,7 @@ def main():
     )
 
     print(' ')
-    print(f'In 10000 simulations you have won in {victory_rate} % of games, '
+    print(f'In random 10000 simulations you have won in {victory_rate} % of games, '
           f'you got draw in {draws_rate} % of games and lost in {loses_rate} % of games')
 
 
