@@ -34,8 +34,15 @@ poker_probabilities_count/
 ├── evaluation.py        # 7-card hand evaluation
 ├── generation.py        # Monte Carlo simulations
 ├── error.py             # 95% confidence interval errors
+├── research.py          # Creates graphs
 ├── README.md
 ```
+### Research
+
+This module presents research on the dependence of probabilities.
+- Dependence of the probabilities of a win, draw, or loss on the number of simulations (to demonstrate convergence)
+- Probability of winning, draw and losing with the same combination of cards (in hand and on the table), depending on the number of players
+
 
 ### Libraries
 
@@ -100,8 +107,14 @@ poker_probabilities_count/
 ├── evaluation.py        # оценка 7 карт
 ├── generation.py        # симуляции Монте-Карло
 ├── error.py             # погрешность для 95% доверительного интервала
+├── research.py          # Строит графики
 ├── README.md
 ```
+
+### Исследование
+В этом модуле представлены исследования зависимости вероятностей
+- Зависимость вероятностей победы, ничьей или проигрыша от количества симуляций (для демонстрации сходимости)
+- Вероятность победы, ничьи и поражения с одной и той же комбинацией карт (на руках и на столе) в зависимости от количества игроков
 
 ### Библиотеки
 
